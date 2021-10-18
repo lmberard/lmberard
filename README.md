@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://user-images.githubusercontent.com/50753891/137649740-858d7a1a-4237-40eb-b24d-412efd80d2ae.mp4
+
 <!--
 **lmberard/lmberard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
