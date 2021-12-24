@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/50753891/137649740-858d7a1a-4237-40eb-b24d-412efd80d2ae.mp4
 
-Drawing done by me using JavaScript 
+
+|  |   |
+| ------------------------------------------------ | ----------------------------------------------- |
+|![Graphs](https://user-images.githubusercontent.com/50753891/147324071-4c47c442-e92a-491d-a3e6-8e8db55f888f.gif) | ![ellipses](https://user-images.githubusercontent.com/50753891/147324213-e24e9bba-c5f4-4947-bd51-d401ade7db2f.gif) |
+
+Drawings done by me using JavaScript 
 <!--
 **lmberard/lmberard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
