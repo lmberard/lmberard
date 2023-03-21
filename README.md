@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![intro](https://user-images.githubusercontent.com/50753891/147422147-5176d86f-337d-4739-9da2-7e3b9b591dbf.gif)
 <details>
-    <summary>Drawings done by me using JavaScript</summary>
+    <summary>Click here to see my drawings that i created with JavaScript</summary>
   
 |  |   |
 | ------------------------------------------------ | ----------------------------------------------- |
